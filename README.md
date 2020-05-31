@@ -1,5 +1,5 @@
 # rss-to-kindle
-Reads an RSS feed and pushes a random post of the day to your kindle, utilizing the excellent service [PushToKindle](https://www.fivefilters.org/push-to-kindle/)
+Reads an RSS feed and pushes a random post of the day to your kindle, utilizing the excellent service [PushToKindle](https://www.fivefilters.org/push-to-kindle/).
 
 I've got this running via a cron job on my raspberry pi:
 ```
